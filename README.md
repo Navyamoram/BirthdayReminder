@@ -1,2 +1,2 @@
 # BirthdayReminder
-For getting reminder we have to install a package mane call PIP
+For getting reminder we have to install a package mane called PIP
